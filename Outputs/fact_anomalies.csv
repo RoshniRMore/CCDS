@@ -1,0 +1,6 @@
+cycle_id,metric,value,z_score,severity,note
+PG-1017,net_pnl,-38107.56,,HIGH,Cycle finished with a loss
+PG-1000,net_pnl,-4483.34,,HIGH,Cycle finished with a loss
+PG-1005,net_pnl,-952.88,,HIGH,Cycle finished with a loss
+PG-1009,net_pnl,-23217.13,,HIGH,Cycle finished with a loss
+PG-1003,net_pnl,-21944.07,,HIGH,Cycle finished with a loss

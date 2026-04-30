@@ -1,0 +1,11 @@
+table,kind,column,count,action,note
+sow_farm,row_count,,156,kept,in=156 out=156
+nursery,row_count,,18,kept,in=18 out=18
+pig_flow,null_count,From_Barn,18,reported,18/41 (43.9%)
+pig_flow,row_count,,41,kept,in=41 out=41
+environment,out_of_range,Avg_Temperature_F,122,set_null,"Outside [40, 110]"
+environment,imputed,sensor_columns,96,forward_filled,"Forward-filled up to 2 days within (Site, Barn)"
+environment,row_count,,3285,kept,in=3285 out=3285
+packer,row_count,,180,kept,in=180 out=180
+hedging,row_count,,18,kept,in=18 out=18
+accounting,row_count,,360,kept,in=360 out=360

@@ -1,0 +1,6 @@
+{"timestamp": 1777544435.5147598, "event": "setup", "user": "advisor_jane", "producer": "PG-1017", "action": "guardrails_initialized"}
+{"timestamp": 1777544435.6545544, "user": "advisor_jane", "producer": "PG-1017", "request": "Give me a one-paragraph summary of this cycle for the call.", "event": "prompt_sent", "metrics_keys": ["cycle_id", "received_head", "packer_revenue", "total_cost", "hedge_pnl", "net_pnl", "pnl_per_head"], "anonymized": ["<PRODUCER_A>", "<VENDOR_A>", "<VENDOR_B>"]}
+{"timestamp": 1777544435.6559324, "user": "advisor_jane", "producer": "PG-1017", "request": "Give me a one-paragraph summary of this cycle for the call.", "event": "response", "used_fallback": true, "verification_ok": true, "verification_errors": []}
+{"timestamp": 1777544435.6817765, "user": "advisor_jane", "producer": "PG-1017", "request": "Will hog prices go up next month?", "event": "refused", "reason": "Price prediction"}
+{"timestamp": 1777544435.6824162, "user": "advisor_jane", "producer": "PG-1017", "request": "Should we hedge more aggressively for this cycle?", "event": "refused", "reason": "Hedging recommendation"}
+{"timestamp": 1777544435.6829531, "user": "advisor_jane", "producer": "PG-1017", "request": "Compare this cycle with other producers.", "event": "refused", "reason": "Cross-producer comparison"}

@@ -1,0 +1,361 @@
+Date,Fiscal_Year,Month,Operation_ID,Site,Cost_Category,Cost_Subcategory,Description,Quantity,Unit,Unit_Cost,Total_Cost,Vendor,Production_Phase,Pig_Group_ID,Notes
+4/13/2025,2025,4,OP-2025-001,Site A,Facilities,Utilities,Utilities expense,92.53,unit,35.2,3257.06,VetHealth Inc,Finishing,PG-5426,Dummy data for student testing
+3/29/2025,2025,3,OP-2025-001,Site B,Labor,Payroll Burden,Payroll Burden expense,11.27,unit,43.66,492.05,VetHealth Inc,Gilt Development,PG-6051,Dummy data for student testing
+10/4/2025,2025,10,OP-2025-001,Site A,Feed,Feed Delivery,Feed Delivery expense,306.21,unit,0.81,248.03,AgriFeed Co,Finishing,PG-3558,Dummy data for student testing
+6/19/2025,2025,6,OP-2025-001,Site C,Facilities,Barn Supplies,Barn Supplies expense,183.81,unit,20.8,3823.25,Midwest Transport,Gilt Development,PG-8734,Dummy data for student testing
+9/1/2025,2025,9,OP-2025-001,Site A,Feed,Finisher Feed,Finisher Feed expense,430.11,unit,30.77,13234.48,VetHealth Inc,Gilt Development,PG-9792,Dummy data for student testing
+11/12/2025,2025,11,OP-2025-001,Site B,Transportation,Market Delivery,Market Delivery expense,193.32,unit,1.21,233.92,Farm Services LLC,Gilt Development,PG-6486,Dummy data for student testing
+9/21/2025,2025,9,OP-2025-001,Site B,Overhead,Professional Services,Professional Services expense,454.75,unit,12.02,5466.1,VetHealth Inc,Gilt Development,PG-8989,Dummy data for student testing
+7/10/2025,2025,7,OP-2025-001,Site B,Animal,Gilt Development,Gilt Development expense,225.43,unit,18.08,4075.77,Farm Services LLC,Breeding,PG-8869,Dummy data for student testing
+10/23/2025,2025,10,OP-2025-001,Site B,Labor,Hourly Labor,Hourly Labor expense,136.4,unit,37.38,5098.63,AgriFeed Co,Gilt Development,PG-7331,Dummy data for student testing
+2/10/2025,2025,2,OP-2025-001,Site A,Labor,Payroll Burden,Payroll Burden expense,83.47,unit,1.2,100.16,AgriFeed Co,Gilt Development,PG-3695,Dummy data for student testing
+3/4/2025,2025,3,OP-2025-001,Site A,Health,Medications,Medications expense,353.72,unit,32.94,11651.54,Midwest Transport,Breeding,PG-4561,Dummy data for student testing
+8/19/2025,2025,8,OP-2025-001,Site B,Animal,Weaned Pig Purchase,Weaned Pig Purchase expense,457.56,unit,38.33,17538.27,AgriFeed Co,Gilt Development,PG-3454,Dummy data for student testing
+3/3/2025,2025,3,OP-2025-001,Site C,Labor,Payroll Burden,Payroll Burden expense,296.06,unit,12.73,3768.84,AgriFeed Co,Finishing,PG-9110,Dummy data for student testing
+5/11/2025,2025,5,OP-2025-001,Site C,Feed,Sow Feed,Sow Feed expense,281.08,unit,34.81,9784.39,Midwest Transport,Breeding,PG-1206,Dummy data for student testing
+1/15/2025,2025,1,OP-2025-001,Site C,Animal,Gilt Development,Gilt Development expense,220.23,unit,9.48,2087.78,AgriFeed Co,Gilt Development,PG-6116,Dummy data for student testing
+4/6/2025,2025,4,OP-2025-001,Site C,Facilities,Repairs & Maintenance,Repairs & Maintenance expense,70.53,unit,27.4,1932.52,Midwest Transport,Breeding,PG-2059,Dummy data for student testing
+1/13/2025,2025,1,OP-2025-001,Site B,Overhead,Professional Services,Professional Services expense,347.7,unit,39.68,13796.74,Utility Provider,Nursery,PG-3693,Dummy data for student testing
+10/11/2025,2025,10,OP-2025-001,Site C,Facilities,Barn Supplies,Barn Supplies expense,94.1,unit,40.22,3784.7,VetHealth Inc,Finishing,PG-6592,Dummy data for student testing
+8/19/2025,2025,8,OP-2025-001,Site A,Transportation,Pig Hauling,Pig Hauling expense,136.79,unit,29.32,4010.68,Farm Services LLC,Breeding,PG-6864,Dummy data for student testing
+9/16/2025,2025,9,OP-2025-001,Site A,Overhead,Software & Technology,Software & Technology expense,255.86,unit,19.07,4879.25,AgriFeed Co,Finishing,PG-1663,Dummy data for student testing
+11/11/2025,2025,11,OP-2025-001,Site A,Transportation,Market Delivery,Market Delivery expense,259.88,unit,31.78,8258.99,AgriFeed Co,Nursery,PG-2291,Dummy data for student testing
+10/22/2025,2025,10,OP-2025-001,Site A,Animal,Genetics/Semen,Genetics/Semen expense,151.14,unit,13.18,1992.03,Midwest Transport,Breeding,PG-5737,Dummy data for student testing
+8/8/2025,2025,8,OP-2025-001,Site C,Transportation,Pig Hauling,Pig Hauling expense,140.04,unit,40.92,5730.44,VetHealth Inc,Breeding,PG-2707,Dummy data for student testing
+8/6/2025,2025,8,OP-2025-001,Site C,Transportation,Market Delivery,Market Delivery expense,296.76,unit,4.1,1216.72,AgriFeed Co,Finishing,PG-5389,Dummy data for student testing
+10/7/2025,2025,10,OP-2025-001,Site A,Labor,Contract Labor,Contract Labor expense,317.13,unit,24.34,7718.94,AgriFeed Co,Gilt Development,PG-5282,Dummy data for student testing
+11/22/2025,2025,11,OP-2025-001,Site C,Labor,Payroll Burden,Payroll Burden expense,295.86,unit,30.65,9068.11,VetHealth Inc,Finishing,PG-9338,Dummy data for student testing
+5/28/2025,2025,5,OP-2025-001,Site B,Overhead,Insurance,Insurance expense,345.78,unit,17.71,6123.76,AgriFeed Co,Finishing,PG-9155,Dummy data for student testing
+5/31/2025,2025,5,OP-2025-001,Site B,Overhead,Software & Technology,Software & Technology expense,348.2,unit,10.67,3715.29,AgriFeed Co,Gilt Development,PG-3049,Dummy data for student testing
+10/31/2025,2025,10,OP-2025-001,Site C,Transportation,Market Delivery,Market Delivery expense,279.59,unit,39.78,11122.09,AgriFeed Co,Breeding,PG-4170,Dummy data for student testing
+5/27/2025,2025,5,OP-2025-001,Site C,Health,Biosecurity Supplies,Biosecurity Supplies expense,443.66,unit,35.2,15616.83,AgriFeed Co,Gilt Development,PG-6539,Dummy data for student testing
+4/14/2025,2025,4,OP-2025-001,Site C,Facilities,Repairs & Maintenance,Repairs & Maintenance expense,5.59,unit,5.02,28.06,AgriFeed Co,Breeding,PG-3961,Dummy data for student testing
+12/4/2025,2025,12,OP-2025-001,Site A,Animal,Gilt Development,Gilt Development expense,224.76,unit,44.75,10058.01,Farm Services LLC,Breeding,PG-5493,Dummy data for student testing
+10/4/2025,2025,10,OP-2025-001,Site A,Facilities,Barn Supplies,Barn Supplies expense,325.17,unit,38.29,12450.76,AgriFeed Co,Gilt Development,PG-5555,Dummy data for student testing
+1/22/2025,2025,1,OP-2025-001,Site B,Transportation,Market Delivery,Market Delivery expense,486.53,unit,17.99,8752.67,Midwest Transport,Finishing,PG-1225,Dummy data for student testing
+10/4/2025,2025,10,OP-2025-001,Site A,Transportation,Pig Hauling,Pig Hauling expense,288.88,unit,22.42,6476.69,Farm Services LLC,Breeding,PG-8683,Dummy data for student testing
+2/4/2025,2025,2,OP-2025-001,Site A,Feed,Feed Delivery,Feed Delivery expense,89.38,unit,42.35,3785.24,Utility Provider,Nursery,PG-2060,Dummy data for student testing
+10/7/2025,2025,10,OP-2025-001,Site A,Labor,Hourly Labor,Hourly Labor expense,276.83,unit,25.97,7189.28,Farm Services LLC,Finishing,PG-1980,Dummy data for student testing
+6/10/2025,2025,6,OP-2025-001,Site B,Health,Biosecurity Supplies,Biosecurity Supplies expense,186.97,unit,18.06,3376.68,VetHealth Inc,Finishing,PG-2895,Dummy data for student testing
+6/23/2025,2025,6,OP-2025-001,Site C,Animal,Mortality Disposal,Mortality Disposal expense,335.9,unit,16.46,5528.91,Midwest Transport,Nursery,PG-2409,Dummy data for student testing
+9/30/2025,2025,9,OP-2025-001,Site A,Feed,Sow Feed,Sow Feed expense,351.54,unit,16.5,5800.41,VetHealth Inc,Finishing,PG-1537,Dummy data for student testing
+12/21/2025,2025,12,OP-2025-001,Site C,Animal,Weaned Pig Purchase,Weaned Pig Purchase expense,306.15,unit,4.13,1264.4,AgriFeed Co,Gilt Development,PG-5780,Dummy data for student testing
+1/20/2025,2025,1,OP-2025-001,Site C,Feed,Feed Delivery,Feed Delivery expense,351.28,unit,35.91,12614.46,Farm Services LLC,Nursery,PG-6919,Dummy data for student testing
+8/3/2025,2025,8,OP-2025-001,Site B,Overhead,Software & Technology,Software & Technology expense,164.75,unit,7.4,1219.15,Utility Provider,Nursery,PG-7457,Dummy data for student testing
+2/27/2025,2025,2,OP-2025-001,Site B,Transportation,Pig Hauling,Pig Hauling expense,19.64,unit,37.11,728.84,Midwest Transport,Gilt Development,PG-4124,Dummy data for student testing
+3/1/2025,2025,3,OP-2025-001,Site A,Facilities,Barn Supplies,Barn Supplies expense,311.82,unit,4.3,1340.83,Farm Services LLC,Nursery,PG-5142,Dummy data for student testing
+12/21/2025,2025,12,OP-2025-001,Site C,Overhead,Insurance,Insurance expense,484.8,unit,32.3,15659.04,AgriFeed Co,Gilt Development,PG-1830,Dummy data for student testing
+10/2/2025,2025,10,OP-2025-001,Site A,Facilities,Repairs & Maintenance,Repairs & Maintenance expense,40.15,unit,1.63,65.44,AgriFeed Co,Gilt Development,PG-2664,Dummy data for student testing
+2/27/2025,2025,2,OP-2025-001,Site B,Animal,Weaned Pig Purchase,Weaned Pig Purchase expense,221.73,unit,11.17,2476.72,AgriFeed Co,Gilt Development,PG-8404,Dummy data for student testing
+9/29/2025,2025,9,OP-2025-001,Site A,Labor,Payroll Burden,Payroll Burden expense,328.9,unit,19.89,6541.82,Midwest Transport,Gilt Development,PG-5249,Dummy data for student testing
+5/24/2025,2025,5,OP-2025-001,Site A,Health,Vet Services,Vet Services expense,60.96,unit,15.71,957.68,AgriFeed Co,Nursery,PG-7617,Dummy data for student testing
+12/7/2025,2025,12,OP-2025-001,Site B,Overhead,Insurance,Insurance expense,232.87,unit,29.41,6848.71,VetHealth Inc,Nursery,PG-3849,Dummy data for student testing
+6/29/2025,2025,6,OP-2025-001,Site A,Overhead,Software & Technology,Software & Technology expense,313.3,unit,22.89,7171.44,Utility Provider,Breeding,PG-5611,Dummy data for student testing
+1/16/2025,2025,1,OP-2025-001,Site C,Overhead,Software & Technology,Software & Technology expense,14.23,unit,26.57,378.09,Farm Services LLC,Gilt Development,PG-7833,Dummy data for student testing
+6/12/2025,2025,6,OP-2025-001,Site A,Facilities,Utilities,Utilities expense,229.67,unit,24.78,5691.22,Farm Services LLC,Finishing,PG-6536,Dummy data for student testing
+6/17/2025,2025,6,OP-2025-001,Site C,Animal,Genetics/Semen,Genetics/Semen expense,98.7,unit,3.59,354.33,VetHealth Inc,Breeding,PG-9945,Dummy data for student testing
+2/4/2025,2025,2,OP-2025-001,Site B,Overhead,Insurance,Insurance expense,328.21,unit,17.65,5792.91,VetHealth Inc,Nursery,PG-1417,Dummy data for student testing
+4/25/2025,2025,4,OP-2025-001,Site A,Feed,Finisher Feed,Finisher Feed expense,59.96,unit,31.5,1888.74,Midwest Transport,Breeding,PG-8543,Dummy data for student testing
+8/5/2025,2025,8,OP-2025-001,Site A,Labor,Hourly Labor,Hourly Labor expense,141.74,unit,8.4,1190.62,Midwest Transport,Breeding,PG-2122,Dummy data for student testing
+2/5/2025,2025,2,OP-2025-001,Site B,Animal,Weaned Pig Purchase,Weaned Pig Purchase expense,388.43,unit,15.67,6086.7,Utility Provider,Gilt Development,PG-4440,Dummy data for student testing
+7/2/2025,2025,7,OP-2025-001,Site A,Labor,Payroll Burden,Payroll Burden expense,377.52,unit,5.09,1921.58,AgriFeed Co,Nursery,PG-9787,Dummy data for student testing
+8/5/2025,2025,8,OP-2025-001,Site A,Transportation,Pig Hauling,Pig Hauling expense,447.87,unit,17.82,7981.04,AgriFeed Co,Finishing,PG-5171,Dummy data for student testing
+9/22/2025,2025,9,OP-2025-001,Site B,Overhead,Software & Technology,Software & Technology expense,338.71,unit,21.97,7441.46,Utility Provider,Breeding,PG-8266,Dummy data for student testing
+1/25/2025,2025,1,OP-2025-001,Site A,Facilities,Manure Handling,Manure Handling expense,107.15,unit,42.61,4565.66,Utility Provider,Breeding,PG-6161,Dummy data for student testing
+7/5/2025,2025,7,OP-2025-001,Site C,Overhead,Software & Technology,Software & Technology expense,275.21,unit,20.15,5545.48,Utility Provider,Finishing,PG-9010,Dummy data for student testing
+5/26/2025,2025,5,OP-2025-001,Site A,Overhead,Insurance,Insurance expense,380.99,unit,28.01,10671.53,Utility Provider,Gilt Development,PG-7313,Dummy data for student testing
+10/10/2025,2025,10,OP-2025-001,Site C,Animal,Gilt Development,Gilt Development expense,41.59,unit,4.28,178.01,Utility Provider,Breeding,PG-2365,Dummy data for student testing
+5/25/2025,2025,5,OP-2025-001,Site B,Overhead,Professional Services,Professional Services expense,493.01,unit,34.03,16777.13,Farm Services LLC,Finishing,PG-2810,Dummy data for student testing
+12/30/2025,2025,12,OP-2025-001,Site C,Transportation,Pig Hauling,Pig Hauling expense,212.69,unit,40.83,8684.13,Midwest Transport,Breeding,PG-5748,Dummy data for student testing
+8/30/2025,2025,8,OP-2025-001,Site A,Facilities,Repairs & Maintenance,Repairs & Maintenance expense,29.1,unit,5.79,168.49,AgriFeed Co,Finishing,PG-4072,Dummy data for student testing
+12/14/2025,2025,12,OP-2025-001,Site A,Transportation,Pig Hauling,Pig Hauling expense,188.06,unit,13.21,2484.27,Utility Provider,Nursery,PG-3105,Dummy data for student testing
+2/13/2025,2025,2,OP-2025-001,Site B,Labor,Hourly Labor,Hourly Labor expense,22.54,unit,40.16,905.21,Utility Provider,Finishing,PG-6348,Dummy data for student testing
+6/13/2025,2025,6,OP-2025-001,Site A,Health,Medications,Medications expense,484.68,unit,23.78,11525.69,AgriFeed Co,Nursery,PG-4486,Dummy data for student testing
+1/1/2025,2025,1,OP-2025-001,Site A,Labor,Contract Labor,Contract Labor expense,292.57,unit,40.6,11878.34,Midwest Transport,Gilt Development,PG-2353,Dummy data for student testing
+8/12/2025,2025,8,OP-2025-001,Site B,Transportation,Market Delivery,Market Delivery expense,54.27,unit,15.44,837.93,Farm Services LLC,Gilt Development,PG-4719,Dummy data for student testing
+7/5/2025,2025,7,OP-2025-001,Site C,Facilities,Repairs & Maintenance,Repairs & Maintenance expense,133.7,unit,16.54,2211.4,AgriFeed Co,Breeding,PG-7132,Dummy data for student testing
+7/31/2025,2025,7,OP-2025-001,Site B,Labor,Hourly Labor,Hourly Labor expense,67.46,unit,3.89,262.42,VetHealth Inc,Finishing,PG-1255,Dummy data for student testing
+7/16/2025,2025,7,OP-2025-001,Site B,Overhead,Insurance,Insurance expense,209.7,unit,42.01,8809.5,Midwest Transport,Breeding,PG-6124,Dummy data for student testing
+4/29/2025,2025,4,OP-2025-001,Site A,Feed,Nursery Feed,Nursery Feed expense,405.47,unit,44.43,18015.03,Midwest Transport,Breeding,PG-8449,Dummy data for student testing
+3/4/2025,2025,3,OP-2025-001,Site A,Feed,Nursery Feed,Nursery Feed expense,414.75,unit,25.82,10708.84,VetHealth Inc,Breeding,PG-8266,Dummy data for student testing
+11/7/2025,2025,11,OP-2025-001,Site B,Transportation,Market Delivery,Market Delivery expense,406.64,unit,44.99,18294.73,Midwest Transport,Breeding,PG-8190,Dummy data for student testing
+2/22/2025,2025,2,OP-2025-001,Site B,Labor,Contract Labor,Contract Labor expense,424.97,unit,11.51,4891.4,AgriFeed Co,Nursery,PG-3048,Dummy data for student testing
+2/20/2025,2025,2,OP-2025-001,Site B,Labor,Hourly Labor,Hourly Labor expense,104.41,unit,39.58,4132.55,Farm Services LLC,Finishing,PG-8239,Dummy data for student testing
+2/8/2025,2025,2,OP-2025-001,Site C,Animal,Gilt Development,Gilt Development expense,260.63,unit,34.87,9088.17,VetHealth Inc,Gilt Development,PG-2077,Dummy data for student testing
+8/24/2025,2025,8,OP-2025-001,Site C,Labor,Contract Labor,Contract Labor expense,438.45,unit,18.45,8089.4,Utility Provider,Breeding,PG-5673,Dummy data for student testing
+3/16/2025,2025,3,OP-2025-001,Site B,Health,Medications,Medications expense,69.05,unit,1.15,79.41,VetHealth Inc,Nursery,PG-9017,Dummy data for student testing
+10/13/2025,2025,10,OP-2025-001,Site A,Overhead,Professional Services,Professional Services expense,46.41,unit,32.82,1523.18,AgriFeed Co,Gilt Development,PG-6115,Dummy data for student testing
+1/30/2025,2025,1,OP-2025-001,Site B,Overhead,Software & Technology,Software & Technology expense,431.32,unit,42.75,18438.93,AgriFeed Co,Nursery,PG-3832,Dummy data for student testing
+12/6/2025,2025,12,OP-2025-001,Site B,Labor,Contract Labor,Contract Labor expense,310.78,unit,15.96,4960.05,Midwest Transport,Finishing,PG-2906,Dummy data for student testing
+4/21/2025,2025,4,OP-2025-001,Site B,Feed,Finisher Feed,Finisher Feed expense,64.89,unit,7.26,471.1,Farm Services LLC,Gilt Development,PG-9472,Dummy data for student testing
+7/14/2025,2025,7,OP-2025-001,Site B,Health,Medications,Medications expense,334.11,unit,8.17,2729.68,Midwest Transport,Finishing,PG-8956,Dummy data for student testing
+1/5/2025,2025,1,OP-2025-001,Site B,Animal,Mortality Disposal,Mortality Disposal expense,174.46,unit,1.92,334.96,AgriFeed Co,Breeding,PG-7376,Dummy data for student testing
+1/12/2025,2025,1,OP-2025-001,Site A,Animal,Gilt Development,Gilt Development expense,182.77,unit,22.9,4185.43,Midwest Transport,Breeding,PG-7937,Dummy data for student testing
+9/6/2025,2025,9,OP-2025-001,Site C,Overhead,Insurance,Insurance expense,344.2,unit,23.27,8009.53,Utility Provider,Breeding,PG-2276,Dummy data for student testing
+6/29/2025,2025,6,OP-2025-001,Site B,Overhead,Professional Services,Professional Services expense,185.87,unit,22.06,4100.29,Farm Services LLC,Finishing,PG-3125,Dummy data for student testing
+8/4/2025,2025,8,OP-2025-001,Site C,Animal,Weaned Pig Purchase,Weaned Pig Purchase expense,32.11,unit,7.07,227.02,Midwest Transport,Finishing,PG-1918,Dummy data for student testing
+8/26/2025,2025,8,OP-2025-001,Site B,Health,Medications,Medications expense,16.21,unit,39.09,633.65,Midwest Transport,Finishing,PG-4086,Dummy data for student testing
+7/11/2025,2025,7,OP-2025-001,Site A,Feed,Finisher Feed,Finisher Feed expense,189.26,unit,1.39,263.07,AgriFeed Co,Finishing,PG-7229,Dummy data for student testing
+5/6/2025,2025,5,OP-2025-001,Site B,Facilities,Utilities,Utilities expense,445.37,unit,26.91,11984.91,Midwest Transport,Breeding,PG-7371,Dummy data for student testing
+4/21/2025,2025,4,OP-2025-001,Site C,Transportation,Market Delivery,Market Delivery expense,279.31,unit,26.6,7429.65,VetHealth Inc,Breeding,PG-3739,Dummy data for student testing
+10/9/2025,2025,10,OP-2025-001,Site A,Animal,Genetics/Semen,Genetics/Semen expense,178.69,unit,44.4,7933.84,AgriFeed Co,Breeding,PG-2460,Dummy data for student testing
+5/30/2025,2025,5,OP-2025-001,Site B,Labor,Contract Labor,Contract Labor expense,183.31,unit,22.21,4071.32,Midwest Transport,Nursery,PG-4735,Dummy data for student testing
+11/7/2025,2025,11,OP-2025-001,Site A,Feed,Finisher Feed,Finisher Feed expense,26.77,unit,1.31,35.07,Farm Services LLC,Gilt Development,PG-6342,Dummy data for student testing
+1/6/2025,2025,1,OP-2025-001,Site B,Animal,Mortality Disposal,Mortality Disposal expense,484.77,unit,39.02,18915.73,AgriFeed Co,Nursery,PG-3551,Dummy data for student testing
+3/3/2025,2025,3,OP-2025-001,Site C,Feed,Nursery Feed,Nursery Feed expense,278.82,unit,25.94,7232.59,Utility Provider,Gilt Development,PG-7469,Dummy data for student testing
+4/28/2025,2025,4,OP-2025-001,Site C,Facilities,Manure Handling,Manure Handling expense,100.55,unit,33.26,3344.29,AgriFeed Co,Nursery,PG-2828,Dummy data for student testing
+5/19/2025,2025,5,OP-2025-001,Site B,Overhead,Insurance,Insurance expense,266.76,unit,2.81,749.6,VetHealth Inc,Breeding,PG-7038,Dummy data for student testing
+5/18/2025,2025,5,OP-2025-001,Site A,Facilities,Repairs & Maintenance,Repairs & Maintenance expense,161.85,unit,36.54,5914,Utility Provider,Breeding,PG-3832,Dummy data for student testing
+9/22/2025,2025,9,OP-2025-001,Site B,Health,Medications,Medications expense,236.32,unit,18.83,4449.91,AgriFeed Co,Breeding,PG-1235,Dummy data for student testing
+11/30/2025,2025,11,OP-2025-001,Site C,Labor,Payroll Burden,Payroll Burden expense,469.23,unit,8.56,4016.61,AgriFeed Co,Gilt Development,PG-4391,Dummy data for student testing
+3/1/2025,2025,3,OP-2025-001,Site B,Labor,Payroll Burden,Payroll Burden expense,397.84,unit,9.47,3767.54,Midwest Transport,Breeding,PG-3898,Dummy data for student testing
+3/19/2025,2025,3,OP-2025-001,Site A,Animal,Gilt Development,Gilt Development expense,180.06,unit,39.54,7119.57,VetHealth Inc,Gilt Development,PG-7943,Dummy data for student testing
+6/28/2025,2025,6,OP-2025-001,Site A,Labor,Contract Labor,Contract Labor expense,270.35,unit,20.02,5412.41,AgriFeed Co,Breeding,PG-2248,Dummy data for student testing
+11/5/2025,2025,11,OP-2025-001,Site C,Health,Medications,Medications expense,59.33,unit,42.32,2510.85,Midwest Transport,Gilt Development,PG-6567,Dummy data for student testing
+1/15/2025,2025,1,OP-2025-001,Site C,Overhead,Insurance,Insurance expense,248.22,unit,33.5,8315.37,Farm Services LLC,Breeding,PG-2120,Dummy data for student testing
+10/16/2025,2025,10,OP-2025-001,Site C,Transportation,Market Delivery,Market Delivery expense,285.37,unit,34.43,9825.29,VetHealth Inc,Breeding,PG-7028,Dummy data for student testing
+6/8/2025,2025,6,OP-2025-001,Site A,Overhead,Insurance,Insurance expense,64.62,unit,18.18,1174.79,Utility Provider,Breeding,PG-3371,Dummy data for student testing
+11/28/2025,2025,11,OP-2025-001,Site B,Labor,Contract Labor,Contract Labor expense,7.09,unit,27.13,192.35,Midwest Transport,Finishing,PG-3116,Dummy data for student testing
+5/28/2025,2025,5,OP-2025-001,Site C,Health,Vaccines,Vaccines expense,454.32,unit,26.46,12021.31,VetHealth Inc,Nursery,PG-9554,Dummy data for student testing
+8/6/2025,2025,8,OP-2025-001,Site C,Labor,Contract Labor,Contract Labor expense,51.3,unit,11.89,609.96,Farm Services LLC,Gilt Development,PG-5451,Dummy data for student testing
+11/20/2025,2025,11,OP-2025-001,Site C,Labor,Hourly Labor,Hourly Labor expense,353.91,unit,7.29,2580,VetHealth Inc,Breeding,PG-6109,Dummy data for student testing
+2/20/2025,2025,2,OP-2025-001,Site C,Labor,Contract Labor,Contract Labor expense,467.25,unit,41.69,19479.65,AgriFeed Co,Nursery,PG-6732,Dummy data for student testing
+12/12/2025,2025,12,OP-2025-001,Site C,Transportation,Market Delivery,Market Delivery expense,63.21,unit,41.48,2621.95,Midwest Transport,Gilt Development,PG-3708,Dummy data for student testing
+11/5/2025,2025,11,OP-2025-001,Site A,Feed,Nursery Feed,Nursery Feed expense,401.62,unit,0.71,285.15,Midwest Transport,Finishing,PG-1536,Dummy data for student testing
+3/31/2025,2025,3,OP-2025-001,Site B,Health,Vaccines,Vaccines expense,173.83,unit,15.94,2770.85,Midwest Transport,Breeding,PG-7783,Dummy data for student testing
+12/30/2025,2025,12,OP-2025-001,Site B,Health,Medications,Medications expense,124.86,unit,26.2,3271.33,Utility Provider,Gilt Development,PG-7320,Dummy data for student testing
+10/12/2025,2025,10,OP-2025-001,Site A,Overhead,Professional Services,Professional Services expense,316.5,unit,1.08,341.82,AgriFeed Co,Finishing,PG-5944,Dummy data for student testing
+3/25/2025,2025,3,OP-2025-001,Site C,Feed,Sow Feed,Sow Feed expense,279.1,unit,38.8,10829.08,Utility Provider,Gilt Development,PG-7704,Dummy data for student testing
+11/23/2025,2025,11,OP-2025-001,Site C,Feed,Feed Delivery,Feed Delivery expense,34.47,unit,33.87,1167.5,Midwest Transport,Nursery,PG-3079,Dummy data for student testing
+6/7/2025,2025,6,OP-2025-001,Site C,Labor,Hourly Labor,Hourly Labor expense,19.24,unit,21.51,413.85,VetHealth Inc,Breeding,PG-6490,Dummy data for student testing
+6/24/2025,2025,6,OP-2025-001,Site B,Animal,Gilt Development,Gilt Development expense,267.69,unit,21.91,5865.09,Midwest Transport,Finishing,PG-7016,Dummy data for student testing
+9/21/2025,2025,9,OP-2025-001,Site B,Labor,Payroll Burden,Payroll Burden expense,473.11,unit,17.11,8094.91,Midwest Transport,Nursery,PG-7305,Dummy data for student testing
+3/28/2025,2025,3,OP-2025-001,Site A,Overhead,Software & Technology,Software & Technology expense,433.63,unit,18.66,8091.54,Midwest Transport,Gilt Development,PG-9519,Dummy data for student testing
+2/23/2025,2025,2,OP-2025-001,Site C,Feed,Finisher Feed,Finisher Feed expense,285.15,unit,39.99,11403.15,VetHealth Inc,Finishing,PG-3143,Dummy data for student testing
+3/29/2025,2025,3,OP-2025-001,Site A,Transportation,Market Delivery,Market Delivery expense,427.99,unit,37.44,16023.95,Utility Provider,Nursery,PG-1822,Dummy data for student testing
+1/7/2025,2025,1,OP-2025-001,Site A,Animal,Genetics/Semen,Genetics/Semen expense,368.22,unit,38.24,14080.73,Midwest Transport,Gilt Development,PG-2308,Dummy data for student testing
+7/7/2025,2025,7,OP-2025-001,Site C,Animal,Gilt Development,Gilt Development expense,455.4,unit,28.3,12887.82,VetHealth Inc,Finishing,PG-2409,Dummy data for student testing
+7/14/2025,2025,7,OP-2025-001,Site B,Overhead,Professional Services,Professional Services expense,134.76,unit,28.27,3809.67,AgriFeed Co,Nursery,PG-8083,Dummy data for student testing
+12/21/2025,2025,12,OP-2025-001,Site B,Facilities,Repairs & Maintenance,Repairs & Maintenance expense,382.04,unit,6.74,2574.95,Midwest Transport,Nursery,PG-5223,Dummy data for student testing
+8/12/2025,2025,8,OP-2025-001,Site B,Feed,Nursery Feed,Nursery Feed expense,12.21,unit,12.46,152.14,Utility Provider,Breeding,PG-8368,Dummy data for student testing
+9/3/2025,2025,9,OP-2025-001,Site A,Transportation,Pig Hauling,Pig Hauling expense,211.43,unit,6.39,1351.04,Utility Provider,Nursery,PG-9996,Dummy data for student testing
+3/16/2025,2025,3,OP-2025-001,Site A,Transportation,Market Delivery,Market Delivery expense,265.3,unit,36.77,9755.08,VetHealth Inc,Breeding,PG-6796,Dummy data for student testing
+6/2/2025,2025,6,OP-2025-001,Site B,Transportation,Market Delivery,Market Delivery expense,360.38,unit,5.24,1888.39,Utility Provider,Finishing,PG-8992,Dummy data for student testing
+10/14/2025,2025,10,OP-2025-001,Site A,Transportation,Pig Hauling,Pig Hauling expense,299.11,unit,27.22,8141.77,Utility Provider,Finishing,PG-3969,Dummy data for student testing
+7/9/2025,2025,7,OP-2025-001,Site C,Animal,Gilt Development,Gilt Development expense,24.44,unit,7.9,193.08,AgriFeed Co,Finishing,PG-5788,Dummy data for student testing
+10/19/2025,2025,10,OP-2025-001,Site C,Health,Vaccines,Vaccines expense,35.06,unit,37.75,1323.52,Farm Services LLC,Breeding,PG-9378,Dummy data for student testing
+10/22/2025,2025,10,OP-2025-001,Site B,Health,Vaccines,Vaccines expense,238.55,unit,30.03,7163.66,Utility Provider,Gilt Development,PG-6408,Dummy data for student testing
+9/7/2025,2025,9,OP-2025-001,Site C,Facilities,Manure Handling,Manure Handling expense,131.87,unit,26.98,3557.85,AgriFeed Co,Nursery,PG-8674,Dummy data for student testing
+12/31/2025,2025,12,OP-2025-001,Site A,Health,Vaccines,Vaccines expense,312.04,unit,21.6,6740.06,AgriFeed Co,Gilt Development,PG-6136,Dummy data for student testing
+5/9/2025,2025,5,OP-2025-001,Site C,Feed,Sow Feed,Sow Feed expense,344.51,unit,19.85,6838.52,Midwest Transport,Finishing,PG-2252,Dummy data for student testing
+4/18/2025,2025,4,OP-2025-001,Site C,Facilities,Manure Handling,Manure Handling expense,136.8,unit,26.77,3662.14,Utility Provider,Gilt Development,PG-5090,Dummy data for student testing
+11/1/2025,2025,11,OP-2025-001,Site C,Labor,Hourly Labor,Hourly Labor expense,475.17,unit,20.35,9669.71,Farm Services LLC,Nursery,PG-9407,Dummy data for student testing
+12/5/2025,2025,12,OP-2025-001,Site B,Overhead,Insurance,Insurance expense,379.76,unit,32.72,12425.75,AgriFeed Co,Nursery,PG-6387,Dummy data for student testing
+5/23/2025,2025,5,OP-2025-001,Site B,Health,Vaccines,Vaccines expense,26.75,unit,30.31,810.79,AgriFeed Co,Finishing,PG-6913,Dummy data for student testing
+3/27/2025,2025,3,OP-2025-001,Site A,Animal,Genetics/Semen,Genetics/Semen expense,17.94,unit,31.54,565.83,Midwest Transport,Gilt Development,PG-9007,Dummy data for student testing
+11/11/2025,2025,11,OP-2025-001,Site C,Overhead,Insurance,Insurance expense,237.63,unit,38.86,9234.3,Midwest Transport,Nursery,PG-2466,Dummy data for student testing
+4/13/2025,2025,4,OP-2025-001,Site A,Feed,Nursery Feed,Nursery Feed expense,298.54,unit,10.74,3206.32,VetHealth Inc,Finishing,PG-3983,Dummy data for student testing
+7/2/2025,2025,7,OP-2025-001,Site A,Overhead,Professional Services,Professional Services expense,158.33,unit,24.51,3880.67,AgriFeed Co,Breeding,PG-9684,Dummy data for student testing
+4/18/2025,2025,4,OP-2025-001,Site B,Transportation,Market Delivery,Market Delivery expense,13.18,unit,39.22,516.92,Midwest Transport,Finishing,PG-4810,Dummy data for student testing
+2/8/2025,2025,2,OP-2025-001,Site B,Transportation,Market Delivery,Market Delivery expense,27.29,unit,4.44,121.17,Utility Provider,Gilt Development,PG-1271,Dummy data for student testing
+8/24/2025,2025,8,OP-2025-001,Site C,Overhead,Insurance,Insurance expense,384.37,unit,19.09,7337.62,Farm Services LLC,Breeding,PG-4760,Dummy data for student testing
+1/3/2025,2025,1,OP-2025-001,Site B,Labor,Contract Labor,Contract Labor expense,149.2,unit,38.45,5736.74,Utility Provider,Breeding,PG-9623,Dummy data for student testing
+7/12/2025,2025,7,OP-2025-001,Site A,Labor,Contract Labor,Contract Labor expense,23.51,unit,5.37,126.25,Farm Services LLC,Gilt Development,PG-2828,Dummy data for student testing
+3/2/2025,2025,3,OP-2025-001,Site C,Labor,Payroll Burden,Payroll Burden expense,294.69,unit,44.21,13028.24,Midwest Transport,Nursery,PG-2868,Dummy data for student testing
+8/14/2025,2025,8,OP-2025-001,Site A,Feed,Finisher Feed,Finisher Feed expense,495.59,unit,10.81,5357.33,Utility Provider,Finishing,PG-4564,Dummy data for student testing
+11/26/2025,2025,11,OP-2025-001,Site B,Health,Vaccines,Vaccines expense,192.66,unit,2.13,410.37,Midwest Transport,Gilt Development,PG-4845,Dummy data for student testing
+1/5/2025,2025,1,OP-2025-001,Site C,Labor,Contract Labor,Contract Labor expense,484.58,unit,39.83,19300.82,Farm Services LLC,Nursery,PG-8657,Dummy data for student testing
+6/27/2025,2025,6,OP-2025-001,Site C,Animal,Gilt Development,Gilt Development expense,498.17,unit,40.44,20145.99,Utility Provider,Gilt Development,PG-1892,Dummy data for student testing
+3/30/2025,2025,3,OP-2025-001,Site A,Feed,Feed Delivery,Feed Delivery expense,290.46,unit,4.57,1327.4,Midwest Transport,Finishing,PG-2218,Dummy data for student testing
+8/14/2025,2025,8,OP-2025-001,Site A,Facilities,Repairs & Maintenance,Repairs & Maintenance expense,404.95,unit,29.66,12010.82,Midwest Transport,Finishing,PG-8291,Dummy data for student testing
+2/7/2025,2025,2,OP-2025-001,Site A,Health,Vet Services,Vet Services expense,25.34,unit,24.2,613.23,Farm Services LLC,Gilt Development,PG-4020,Dummy data for student testing
+10/11/2025,2025,10,OP-2025-001,Site B,Labor,Hourly Labor,Hourly Labor expense,425.75,unit,22.53,9592.15,Utility Provider,Finishing,PG-3745,Dummy data for student testing
+11/19/2025,2025,11,OP-2025-001,Site B,Animal,Mortality Disposal,Mortality Disposal expense,283.3,unit,12.38,3507.25,Midwest Transport,Gilt Development,PG-4239,Dummy data for student testing
+4/2/2025,2025,4,OP-2025-001,Site C,Feed,Finisher Feed,Finisher Feed expense,433.78,unit,32.02,13889.64,Utility Provider,Breeding,PG-5286,Dummy data for student testing
+6/4/2025,2025,6,OP-2025-001,Site B,Transportation,Market Delivery,Market Delivery expense,80.14,unit,39.7,3181.56,AgriFeed Co,Finishing,PG-6150,Dummy data for student testing
+1/23/2025,2025,1,OP-2025-001,Site C,Animal,Gilt Development,Gilt Development expense,410.15,unit,10.67,4376.3,VetHealth Inc,Gilt Development,PG-9780,Dummy data for student testing
+1/12/2025,2025,1,OP-2025-001,Site A,Overhead,Software & Technology,Software & Technology expense,144.23,unit,27.95,4031.23,AgriFeed Co,Breeding,PG-8009,Dummy data for student testing
+7/7/2025,2025,7,OP-2025-001,Site C,Labor,Payroll Burden,Payroll Burden expense,65.1,unit,13.11,853.46,VetHealth Inc,Breeding,PG-2435,Dummy data for student testing
+3/1/2025,2025,3,OP-2025-001,Site B,Overhead,Software & Technology,Software & Technology expense,377.1,unit,35.6,13424.76,Farm Services LLC,Finishing,PG-2040,Dummy data for student testing
+1/12/2025,2025,1,OP-2025-001,Site B,Transportation,Pig Hauling,Pig Hauling expense,291.5,unit,15.89,4631.94,Midwest Transport,Nursery,PG-3353,Dummy data for student testing
+9/27/2025,2025,9,OP-2025-001,Site A,Overhead,Insurance,Insurance expense,223.53,unit,29.32,6553.9,Farm Services LLC,Finishing,PG-9220,Dummy data for student testing
+2/2/2025,2025,2,OP-2025-001,Site B,Transportation,Pig Hauling,Pig Hauling expense,244.83,unit,34.78,8515.19,VetHealth Inc,Nursery,PG-4356,Dummy data for student testing
+1/4/2025,2025,1,OP-2025-001,Site C,Feed,Finisher Feed,Finisher Feed expense,226.24,unit,7.78,1760.15,Utility Provider,Breeding,PG-2098,Dummy data for student testing
+10/15/2025,2025,10,OP-2025-001,Site C,Animal,Genetics/Semen,Genetics/Semen expense,340.57,unit,29.63,10091.09,Midwest Transport,Breeding,PG-1988,Dummy data for student testing
+1/21/2025,2025,1,OP-2025-001,Site A,Overhead,Insurance,Insurance expense,319.62,unit,18.19,5813.89,Utility Provider,Finishing,PG-6626,Dummy data for student testing
+9/14/2025,2025,9,OP-2025-001,Site C,Animal,Mortality Disposal,Mortality Disposal expense,362.49,unit,33.69,12212.29,AgriFeed Co,Breeding,PG-1791,Dummy data for student testing
+1/12/2025,2025,1,OP-2025-001,Site B,Animal,Genetics/Semen,Genetics/Semen expense,236.29,unit,24.67,5829.27,AgriFeed Co,Breeding,PG-4676,Dummy data for student testing
+11/5/2025,2025,11,OP-2025-001,Site C,Overhead,Professional Services,Professional Services expense,422.55,unit,34.37,14523.04,Utility Provider,Gilt Development,PG-7059,Dummy data for student testing
+6/30/2025,2025,6,OP-2025-001,Site A,Facilities,Repairs & Maintenance,Repairs & Maintenance expense,308.71,unit,35.95,11098.12,AgriFeed Co,Nursery,PG-2875,Dummy data for student testing
+8/16/2025,2025,8,OP-2025-001,Site B,Feed,Nursery Feed,Nursery Feed expense,113.54,unit,7.66,869.72,Utility Provider,Breeding,PG-3433,Dummy data for student testing
+12/10/2025,2025,12,OP-2025-001,Site B,Health,Biosecurity Supplies,Biosecurity Supplies expense,228.15,unit,1.02,232.71,VetHealth Inc,Nursery,PG-9357,Dummy data for student testing
+2/1/2025,2025,2,OP-2025-001,Site A,Health,Vet Services,Vet Services expense,378.77,unit,42.89,16245.45,Midwest Transport,Nursery,PG-4762,Dummy data for student testing
+3/29/2025,2025,3,OP-2025-001,Site C,Feed,Sow Feed,Sow Feed expense,52.29,unit,25.91,1354.83,Farm Services LLC,Gilt Development,PG-3720,Dummy data for student testing
+7/21/2025,2025,7,OP-2025-001,Site A,Animal,Mortality Disposal,Mortality Disposal expense,37.14,unit,24.27,901.39,Utility Provider,Nursery,PG-7732,Dummy data for student testing
+4/26/2025,2025,4,OP-2025-001,Site B,Animal,Gilt Development,Gilt Development expense,161.73,unit,44,7116.12,VetHealth Inc,Nursery,PG-4041,Dummy data for student testing
+4/16/2025,2025,4,OP-2025-001,Site C,Overhead,Insurance,Insurance expense,475.82,unit,6.03,2869.19,AgriFeed Co,Nursery,PG-4144,Dummy data for student testing
+12/25/2025,2025,12,OP-2025-001,Site B,Overhead,Insurance,Insurance expense,354.82,unit,39.26,13930.23,Farm Services LLC,Nursery,PG-9442,Dummy data for student testing
+1/7/2025,2025,1,OP-2025-001,Site B,Health,Biosecurity Supplies,Biosecurity Supplies expense,276.95,unit,27.09,7502.58,VetHealth Inc,Finishing,PG-1514,Dummy data for student testing
+5/7/2025,2025,5,OP-2025-001,Site B,Feed,Feed Delivery,Feed Delivery expense,366.06,unit,4.13,1511.83,Farm Services LLC,Finishing,PG-2560,Dummy data for student testing
+10/28/2025,2025,10,OP-2025-001,Site A,Health,Vaccines,Vaccines expense,165.18,unit,21.42,3538.16,Utility Provider,Finishing,PG-3356,Dummy data for student testing
+7/2/2025,2025,7,OP-2025-001,Site B,Health,Biosecurity Supplies,Biosecurity Supplies expense,278.13,unit,32.5,9039.23,Utility Provider,Gilt Development,PG-9503,Dummy data for student testing
+12/27/2025,2025,12,OP-2025-001,Site A,Health,Medications,Medications expense,41.68,unit,18.45,769,Utility Provider,Nursery,PG-7078,Dummy data for student testing
+7/26/2025,2025,7,OP-2025-001,Site C,Feed,Finisher Feed,Finisher Feed expense,231.85,unit,39.14,9074.61,VetHealth Inc,Breeding,PG-3071,Dummy data for student testing
+10/20/2025,2025,10,OP-2025-001,Site B,Facilities,Barn Supplies,Barn Supplies expense,186.15,unit,44.45,8274.37,AgriFeed Co,Finishing,PG-5703,Dummy data for student testing
+4/15/2025,2025,4,OP-2025-001,Site B,Facilities,Repairs & Maintenance,Repairs & Maintenance expense,362.9,unit,22.16,8041.86,VetHealth Inc,Gilt Development,PG-2394,Dummy data for student testing
+7/5/2025,2025,7,OP-2025-001,Site A,Transportation,Pig Hauling,Pig Hauling expense,106.12,unit,28.22,2994.71,AgriFeed Co,Finishing,PG-4591,Dummy data for student testing
+4/10/2025,2025,4,OP-2025-001,Site B,Transportation,Pig Hauling,Pig Hauling expense,316.64,unit,17.09,5411.38,Utility Provider,Breeding,PG-5648,Dummy data for student testing
+11/14/2025,2025,11,OP-2025-001,Site C,Transportation,Market Delivery,Market Delivery expense,203.11,unit,26.88,5459.6,AgriFeed Co,Gilt Development,PG-9321,Dummy data for student testing
+8/19/2025,2025,8,OP-2025-001,Site B,Transportation,Pig Hauling,Pig Hauling expense,196.15,unit,43.64,8559.99,Midwest Transport,Breeding,PG-5356,Dummy data for student testing
+6/13/2025,2025,6,OP-2025-001,Site C,Labor,Payroll Burden,Payroll Burden expense,227.44,unit,11,2501.84,VetHealth Inc,Breeding,PG-6897,Dummy data for student testing
+11/28/2025,2025,11,OP-2025-001,Site C,Transportation,Pig Hauling,Pig Hauling expense,216.01,unit,11.57,2499.24,Farm Services LLC,Breeding,PG-1575,Dummy data for student testing
+10/11/2025,2025,10,OP-2025-001,Site A,Feed,Finisher Feed,Finisher Feed expense,368.46,unit,30.04,11068.54,AgriFeed Co,Breeding,PG-3203,Dummy data for student testing
+7/26/2025,2025,7,OP-2025-001,Site B,Transportation,Market Delivery,Market Delivery expense,270.41,unit,2.02,546.23,VetHealth Inc,Breeding,PG-1281,Dummy data for student testing
+10/12/2025,2025,10,OP-2025-001,Site C,Feed,Finisher Feed,Finisher Feed expense,113.13,unit,8.51,962.74,Utility Provider,Breeding,PG-2229,Dummy data for student testing
+1/12/2025,2025,1,OP-2025-001,Site C,Animal,Mortality Disposal,Mortality Disposal expense,493.33,unit,43.45,21435.19,VetHealth Inc,Breeding,PG-8473,Dummy data for student testing
+10/12/2025,2025,10,OP-2025-001,Site B,Feed,Finisher Feed,Finisher Feed expense,227.92,unit,23.44,5342.44,Farm Services LLC,Nursery,PG-7294,Dummy data for student testing
+5/6/2025,2025,5,OP-2025-001,Site B,Labor,Contract Labor,Contract Labor expense,101.72,unit,30.47,3099.41,Utility Provider,Breeding,PG-7812,Dummy data for student testing
+12/18/2025,2025,12,OP-2025-001,Site A,Transportation,Pig Hauling,Pig Hauling expense,481.71,unit,11.86,5713.08,VetHealth Inc,Finishing,PG-7089,Dummy data for student testing
+4/24/2025,2025,4,OP-2025-001,Site A,Animal,Weaned Pig Purchase,Weaned Pig Purchase expense,415.61,unit,38.98,16200.48,Farm Services LLC,Finishing,PG-5440,Dummy data for student testing
+10/29/2025,2025,10,OP-2025-001,Site B,Facilities,Utilities,Utilities expense,300.7,unit,42.37,12740.66,Utility Provider,Gilt Development,PG-9125,Dummy data for student testing
+8/8/2025,2025,8,OP-2025-001,Site A,Animal,Gilt Development,Gilt Development expense,302.87,unit,14.66,4440.07,AgriFeed Co,Breeding,PG-7924,Dummy data for student testing
+3/14/2025,2025,3,OP-2025-001,Site B,Labor,Hourly Labor,Hourly Labor expense,145.05,unit,5.36,777.47,Utility Provider,Nursery,PG-2667,Dummy data for student testing
+4/12/2025,2025,4,OP-2025-001,Site C,Health,Vaccines,Vaccines expense,450.79,unit,39.57,17837.76,Midwest Transport,Breeding,PG-6450,Dummy data for student testing
+5/9/2025,2025,5,OP-2025-001,Site A,Transportation,Market Delivery,Market Delivery expense,324.89,unit,15.11,4909.09,Farm Services LLC,Nursery,PG-5806,Dummy data for student testing
+5/23/2025,2025,5,OP-2025-001,Site A,Labor,Payroll Burden,Payroll Burden expense,194.89,unit,20.47,3989.4,AgriFeed Co,Finishing,PG-7059,Dummy data for student testing
+4/12/2025,2025,4,OP-2025-001,Site B,Animal,Genetics/Semen,Genetics/Semen expense,302.12,unit,30.24,9136.11,VetHealth Inc,Nursery,PG-7228,Dummy data for student testing
+10/9/2025,2025,10,OP-2025-001,Site A,Animal,Gilt Development,Gilt Development expense,457.2,unit,36.71,16783.81,Farm Services LLC,Breeding,PG-5399,Dummy data for student testing
+10/20/2025,2025,10,OP-2025-001,Site B,Overhead,Professional Services,Professional Services expense,197.79,unit,24.95,4934.86,VetHealth Inc,Gilt Development,PG-7570,Dummy data for student testing
+1/21/2025,2025,1,OP-2025-001,Site C,Overhead,Professional Services,Professional Services expense,4.77,unit,29.31,139.81,AgriFeed Co,Gilt Development,PG-9906,Dummy data for student testing
+2/20/2025,2025,2,OP-2025-001,Site B,Overhead,Insurance,Insurance expense,240.11,unit,9.16,2199.41,Utility Provider,Gilt Development,PG-8151,Dummy data for student testing
+2/21/2025,2025,2,OP-2025-001,Site B,Transportation,Pig Hauling,Pig Hauling expense,464.87,unit,24.19,11245.21,Farm Services LLC,Nursery,PG-7787,Dummy data for student testing
+3/31/2025,2025,3,OP-2025-001,Site B,Feed,Nursery Feed,Nursery Feed expense,91.39,unit,30.81,2815.73,Utility Provider,Finishing,PG-4654,Dummy data for student testing
+11/8/2025,2025,11,OP-2025-001,Site B,Feed,Nursery Feed,Nursery Feed expense,93.43,unit,41.34,3862.4,AgriFeed Co,Gilt Development,PG-6495,Dummy data for student testing
+6/22/2025,2025,6,OP-2025-001,Site B,Animal,Genetics/Semen,Genetics/Semen expense,475.75,unit,27.27,12973.7,Utility Provider,Nursery,PG-4097,Dummy data for student testing
+1/9/2025,2025,1,OP-2025-001,Site B,Overhead,Software & Technology,Software & Technology expense,88.21,unit,16.55,1459.88,AgriFeed Co,Nursery,PG-2316,Dummy data for student testing
+3/9/2025,2025,3,OP-2025-001,Site B,Animal,Mortality Disposal,Mortality Disposal expense,411.48,unit,19.36,7966.25,AgriFeed Co,Nursery,PG-6010,Dummy data for student testing
+6/13/2025,2025,6,OP-2025-001,Site A,Animal,Weaned Pig Purchase,Weaned Pig Purchase expense,212.55,unit,7.31,1553.74,Midwest Transport,Gilt Development,PG-2249,Dummy data for student testing
+6/10/2025,2025,6,OP-2025-001,Site C,Overhead,Insurance,Insurance expense,48.76,unit,1.55,75.58,Midwest Transport,Gilt Development,PG-8622,Dummy data for student testing
+6/9/2025,2025,6,OP-2025-001,Site A,Health,Vaccines,Vaccines expense,129.19,unit,28.62,3697.42,AgriFeed Co,Nursery,PG-2343,Dummy data for student testing
+10/18/2025,2025,10,OP-2025-001,Site A,Overhead,Insurance,Insurance expense,338.24,unit,20.2,6832.45,AgriFeed Co,Breeding,PG-7602,Dummy data for student testing
+10/7/2025,2025,10,OP-2025-001,Site B,Facilities,Repairs & Maintenance,Repairs & Maintenance expense,52.95,unit,32.73,1733.05,Utility Provider,Nursery,PG-8843,Dummy data for student testing
+3/14/2025,2025,3,OP-2025-001,Site A,Feed,Finisher Feed,Finisher Feed expense,172.44,unit,27.96,4821.42,AgriFeed Co,Gilt Development,PG-4713,Dummy data for student testing
+1/5/2025,2025,1,OP-2025-001,Site B,Facilities,Manure Handling,Manure Handling expense,320.44,unit,12.57,4027.93,Midwest Transport,Nursery,PG-8979,Dummy data for student testing
+2/27/2025,2025,2,OP-2025-001,Site B,Health,Vaccines,Vaccines expense,335.07,unit,44.74,14991.03,AgriFeed Co,Finishing,PG-5211,Dummy data for student testing
+9/21/2025,2025,9,OP-2025-001,Site A,Transportation,Market Delivery,Market Delivery expense,45.29,unit,43.29,1960.6,AgriFeed Co,Finishing,PG-1207,Dummy data for student testing
+4/16/2025,2025,4,OP-2025-001,Site A,Transportation,Market Delivery,Market Delivery expense,225.74,unit,34.15,7709.02,Farm Services LLC,Gilt Development,PG-8123,Dummy data for student testing
+1/3/2025,2025,1,OP-2025-001,Site B,Transportation,Pig Hauling,Pig Hauling expense,60.79,unit,43.85,2665.64,Utility Provider,Gilt Development,PG-9555,Dummy data for student testing
+11/17/2025,2025,11,OP-2025-001,Site B,Feed,Nursery Feed,Nursery Feed expense,260.96,unit,28.25,7372.12,AgriFeed Co,Breeding,PG-3785,Dummy data for student testing
+5/22/2025,2025,5,OP-2025-001,Site A,Facilities,Utilities,Utilities expense,114.45,unit,15.7,1796.87,Utility Provider,Nursery,PG-3496,Dummy data for student testing
+11/27/2025,2025,11,OP-2025-001,Site B,Health,Biosecurity Supplies,Biosecurity Supplies expense,140.57,unit,42.44,5965.79,Midwest Transport,Nursery,PG-5437,Dummy data for student testing
+11/12/2025,2025,11,OP-2025-001,Site B,Labor,Contract Labor,Contract Labor expense,251.08,unit,18.17,4562.12,VetHealth Inc,Breeding,PG-2826,Dummy data for student testing
+6/7/2025,2025,6,OP-2025-001,Site C,Animal,Gilt Development,Gilt Development expense,360.99,unit,6.79,2451.12,Farm Services LLC,Nursery,PG-9264,Dummy data for student testing
+6/12/2025,2025,6,OP-2025-001,Site B,Animal,Genetics/Semen,Genetics/Semen expense,347.78,unit,15.9,5529.7,VetHealth Inc,Breeding,PG-9984,Dummy data for student testing
+9/10/2025,2025,9,OP-2025-001,Site B,Transportation,Pig Hauling,Pig Hauling expense,461.46,unit,22.17,10230.57,Utility Provider,Gilt Development,PG-3530,Dummy data for student testing
+1/25/2025,2025,1,OP-2025-001,Site A,Labor,Hourly Labor,Hourly Labor expense,61.76,unit,21.78,1345.13,Farm Services LLC,Breeding,PG-8179,Dummy data for student testing
+10/15/2025,2025,10,OP-2025-001,Site A,Facilities,Utilities,Utilities expense,468.29,unit,39.49,18492.77,Farm Services LLC,Finishing,PG-3719,Dummy data for student testing
+12/15/2025,2025,12,OP-2025-001,Site C,Health,Vaccines,Vaccines expense,301.67,unit,16.73,5046.94,Midwest Transport,Breeding,PG-7488,Dummy data for student testing
+5/10/2025,2025,5,OP-2025-001,Site C,Transportation,Pig Hauling,Pig Hauling expense,377.37,unit,28.07,10592.78,AgriFeed Co,Finishing,PG-6448,Dummy data for student testing
+6/5/2025,2025,6,OP-2025-001,Site A,Transportation,Market Delivery,Market Delivery expense,51.42,unit,31.3,1609.45,Farm Services LLC,Gilt Development,PG-2638,Dummy data for student testing
+2/9/2025,2025,2,OP-2025-001,Site B,Feed,Sow Feed,Sow Feed expense,307.99,unit,14.13,4351.9,VetHealth Inc,Finishing,PG-8870,Dummy data for student testing
+3/3/2025,2025,3,OP-2025-001,Site B,Labor,Payroll Burden,Payroll Burden expense,184.51,unit,18.93,3492.77,Utility Provider,Breeding,PG-4716,Dummy data for student testing
+7/2/2025,2025,7,OP-2025-001,Site C,Animal,Gilt Development,Gilt Development expense,241.19,unit,1.35,325.61,Utility Provider,Nursery,PG-8638,Dummy data for student testing
+11/10/2025,2025,11,OP-2025-001,Site B,Overhead,Insurance,Insurance expense,108.39,unit,1.04,112.73,Utility Provider,Breeding,PG-3385,Dummy data for student testing
+6/22/2025,2025,6,OP-2025-001,Site C,Facilities,Utilities,Utilities expense,55.76,unit,24.88,1387.31,Utility Provider,Gilt Development,PG-6887,Dummy data for student testing
+7/2/2025,2025,7,OP-2025-001,Site B,Labor,Contract Labor,Contract Labor expense,64.47,unit,38.98,2513.04,Midwest Transport,Breeding,PG-4493,Dummy data for student testing
+2/11/2025,2025,2,OP-2025-001,Site A,Labor,Contract Labor,Contract Labor expense,446.15,unit,43.01,19188.91,AgriFeed Co,Breeding,PG-7272,Dummy data for student testing
+5/10/2025,2025,5,OP-2025-001,Site B,Facilities,Barn Supplies,Barn Supplies expense,128.08,unit,37.92,4856.79,Farm Services LLC,Gilt Development,PG-9980,Dummy data for student testing
+10/11/2025,2025,10,OP-2025-001,Site A,Health,Medications,Medications expense,330.02,unit,40.33,13309.71,AgriFeed Co,Gilt Development,PG-4926,Dummy data for student testing
+12/10/2025,2025,12,OP-2025-001,Site C,Labor,Payroll Burden,Payroll Burden expense,53.74,unit,44.48,2390.36,Utility Provider,Gilt Development,PG-5940,Dummy data for student testing
+7/19/2025,2025,7,OP-2025-001,Site C,Feed,Finisher Feed,Finisher Feed expense,358.45,unit,3.71,1329.85,AgriFeed Co,Breeding,PG-1147,Dummy data for student testing
+10/4/2025,2025,10,OP-2025-001,Site C,Animal,Genetics/Semen,Genetics/Semen expense,148.97,unit,16.06,2392.46,Midwest Transport,Finishing,PG-9754,Dummy data for student testing
+9/18/2025,2025,9,OP-2025-001,Site B,Labor,Contract Labor,Contract Labor expense,415.44,unit,3.56,1478.97,Farm Services LLC,Breeding,PG-2246,Dummy data for student testing
+5/16/2025,2025,5,OP-2025-001,Site A,Feed,Sow Feed,Sow Feed expense,191.59,unit,9.65,1848.84,Farm Services LLC,Nursery,PG-7979,Dummy data for student testing
+3/19/2025,2025,3,OP-2025-001,Site C,Feed,Sow Feed,Sow Feed expense,479.95,unit,21.78,10453.31,VetHealth Inc,Nursery,PG-3196,Dummy data for student testing
+6/13/2025,2025,6,OP-2025-001,Site A,Facilities,Manure Handling,Manure Handling expense,490.01,unit,27.28,13367.47,Farm Services LLC,Nursery,PG-9714,Dummy data for student testing
+1/10/2025,2025,1,OP-2025-001,Site A,Overhead,Insurance,Insurance expense,464.11,unit,10.5,4873.15,Midwest Transport,Nursery,PG-7267,Dummy data for student testing
+4/24/2025,2025,4,OP-2025-001,Site C,Transportation,Market Delivery,Market Delivery expense,121.11,unit,5.91,715.76,AgriFeed Co,Gilt Development,PG-6341,Dummy data for student testing
+4/29/2025,2025,4,OP-2025-001,Site A,Overhead,Insurance,Insurance expense,129.96,unit,24.71,3211.31,Utility Provider,Nursery,PG-1301,Dummy data for student testing
+12/26/2025,2025,12,OP-2025-001,Site B,Transportation,Pig Hauling,Pig Hauling expense,91.12,unit,2.9,264.25,Midwest Transport,Breeding,PG-8003,Dummy data for student testing
+10/12/2025,2025,10,OP-2025-001,Site C,Labor,Contract Labor,Contract Labor expense,54.86,unit,31,1700.66,VetHealth Inc,Finishing,PG-5082,Dummy data for student testing
+3/29/2025,2025,3,OP-2025-001,Site A,Facilities,Utilities,Utilities expense,207.29,unit,34.24,7097.61,Midwest Transport,Finishing,PG-2653,Dummy data for student testing
+1/19/2025,2025,1,OP-2025-001,Site A,Overhead,Insurance,Insurance expense,47.78,unit,26.18,1250.88,Utility Provider,Finishing,PG-7279,Dummy data for student testing
+12/28/2025,2025,12,OP-2025-001,Site C,Animal,Mortality Disposal,Mortality Disposal expense,406.06,unit,33.51,13607.07,AgriFeed Co,Gilt Development,PG-6343,Dummy data for student testing
+11/16/2025,2025,11,OP-2025-001,Site B,Animal,Gilt Development,Gilt Development expense,102.81,unit,25.2,2590.81,Midwest Transport,Finishing,PG-3159,Dummy data for student testing
+1/13/2025,2025,1,OP-2025-001,Site B,Feed,Feed Delivery,Feed Delivery expense,262.56,unit,38.24,10040.29,Farm Services LLC,Breeding,PG-2037,Dummy data for student testing
+5/1/2025,2025,5,OP-2025-001,Site C,Animal,Weaned Pig Purchase,Weaned Pig Purchase expense,184.6,unit,15.05,2778.23,Midwest Transport,Breeding,PG-1697,Dummy data for student testing
+5/12/2025,2025,5,OP-2025-001,Site B,Overhead,Insurance,Insurance expense,322.04,unit,35.23,11345.47,Midwest Transport,Nursery,PG-2828,Dummy data for student testing
+8/18/2025,2025,8,OP-2025-001,Site B,Labor,Contract Labor,Contract Labor expense,348.11,unit,0.64,222.79,Farm Services LLC,Gilt Development,PG-2080,Dummy data for student testing
+1/20/2025,2025,1,OP-2025-001,Site C,Feed,Finisher Feed,Finisher Feed expense,437.26,unit,23.2,10144.43,Utility Provider,Gilt Development,PG-7841,Dummy data for student testing
+2/24/2025,2025,2,OP-2025-001,Site B,Facilities,Barn Supplies,Barn Supplies expense,27.35,unit,22.15,605.8,VetHealth Inc,Finishing,PG-4390,Dummy data for student testing
+7/30/2025,2025,7,OP-2025-001,Site B,Transportation,Market Delivery,Market Delivery expense,167.78,unit,35.43,5944.45,Utility Provider,Finishing,PG-1867,Dummy data for student testing
+7/11/2025,2025,7,OP-2025-001,Site A,Health,Biosecurity Supplies,Biosecurity Supplies expense,187.36,unit,5.95,1114.79,AgriFeed Co,Nursery,PG-1830,Dummy data for student testing
+4/26/2025,2025,4,OP-2025-001,Site A,Feed,Finisher Feed,Finisher Feed expense,400.88,unit,34.61,13874.46,Farm Services LLC,Nursery,PG-2283,Dummy data for student testing
+5/28/2025,2025,5,OP-2025-001,Site C,Overhead,Professional Services,Professional Services expense,343.27,unit,44.61,15313.27,AgriFeed Co,Nursery,PG-4471,Dummy data for student testing
+11/21/2025,2025,11,OP-2025-001,Site A,Feed,Feed Delivery,Feed Delivery expense,181.76,unit,15.39,2797.29,Midwest Transport,Breeding,PG-7397,Dummy data for student testing
+4/28/2025,2025,4,OP-2025-001,Site A,Labor,Contract Labor,Contract Labor expense,259.52,unit,13.79,3578.78,Midwest Transport,Nursery,PG-9738,Dummy data for student testing
+10/29/2025,2025,10,OP-2025-001,Site A,Animal,Genetics/Semen,Genetics/Semen expense,189.08,unit,21.05,3980.13,Utility Provider,Nursery,PG-9895,Dummy data for student testing
+9/18/2025,2025,9,OP-2025-001,Site C,Facilities,Repairs & Maintenance,Repairs & Maintenance expense,315.95,unit,2.72,859.38,VetHealth Inc,Finishing,PG-3839,Dummy data for student testing
+11/9/2025,2025,11,OP-2025-001,Site A,Facilities,Repairs & Maintenance,Repairs & Maintenance expense,29.58,unit,10.52,311.18,Farm Services LLC,Gilt Development,PG-7868,Dummy data for student testing
+12/30/2025,2025,12,OP-2025-001,Site C,Animal,Gilt Development,Gilt Development expense,19.11,unit,12.77,244.03,Farm Services LLC,Nursery,PG-1631,Dummy data for student testing
+12/2/2025,2025,12,OP-2025-001,Site A,Transportation,Pig Hauling,Pig Hauling expense,225.42,unit,35.06,7903.23,Utility Provider,Gilt Development,PG-3643,Dummy data for student testing
+12/4/2025,2025,12,OP-2025-001,Site A,Animal,Genetics/Semen,Genetics/Semen expense,70.48,unit,24.19,1704.91,Midwest Transport,Finishing,PG-1671,Dummy data for student testing
+9/5/2025,2025,9,OP-2025-001,Site A,Health,Biosecurity Supplies,Biosecurity Supplies expense,64.87,unit,39.76,2579.23,VetHealth Inc,Nursery,PG-3539,Dummy data for student testing
+5/22/2025,2025,5,OP-2025-001,Site C,Feed,Sow Feed,Sow Feed expense,490.67,unit,11.92,5848.79,VetHealth Inc,Breeding,PG-2938,Dummy data for student testing
+12/11/2025,2025,12,OP-2025-001,Site A,Labor,Hourly Labor,Hourly Labor expense,92.32,unit,1.48,136.63,Farm Services LLC,Finishing,PG-7633,Dummy data for student testing
+11/23/2025,2025,11,OP-2025-001,Site A,Transportation,Pig Hauling,Pig Hauling expense,273.01,unit,44.13,12047.93,VetHealth Inc,Gilt Development,PG-8097,Dummy data for student testing
+2/12/2025,2025,2,OP-2025-001,Site B,Feed,Finisher Feed,Finisher Feed expense,354.21,unit,24.69,8745.44,VetHealth Inc,Breeding,PG-2537,Dummy data for student testing
+1/22/2025,2025,1,OP-2025-001,Site C,Feed,Nursery Feed,Nursery Feed expense,49.68,unit,38.86,1930.56,Utility Provider,Finishing,PG-9535,Dummy data for student testing
+10/21/2025,2025,10,OP-2025-001,Site C,Facilities,Manure Handling,Manure Handling expense,230.16,unit,2.81,646.75,AgriFeed Co,Gilt Development,PG-3324,Dummy data for student testing
+1/20/2025,2025,1,OP-2025-001,Site C,Animal,Genetics/Semen,Genetics/Semen expense,379.45,unit,34.06,12924.07,Utility Provider,Finishing,PG-2749,Dummy data for student testing
+4/26/2025,2025,4,OP-2025-001,Site B,Facilities,Repairs & Maintenance,Repairs & Maintenance expense,120.16,unit,20.58,2472.89,Farm Services LLC,Nursery,PG-5976,Dummy data for student testing
+3/7/2025,2025,3,OP-2025-001,Site A,Feed,Feed Delivery,Feed Delivery expense,232.5,unit,40.96,9523.2,VetHealth Inc,Gilt Development,PG-3274,Dummy data for student testing
+9/19/2025,2025,9,OP-2025-001,Site C,Overhead,Professional Services,Professional Services expense,411.23,unit,17.43,7167.74,Utility Provider,Finishing,PG-3551,Dummy data for student testing
+9/25/2025,2025,9,OP-2025-001,Site A,Animal,Mortality Disposal,Mortality Disposal expense,144.28,unit,35.78,5162.34,Utility Provider,Gilt Development,PG-7710,Dummy data for student testing
+2/16/2025,2025,2,OP-2025-001,Site B,Overhead,Software & Technology,Software & Technology expense,266.98,unit,7.53,2010.36,Farm Services LLC,Nursery,PG-3822,Dummy data for student testing
+12/2/2025,2025,12,OP-2025-001,Site B,Health,Vet Services,Vet Services expense,453.17,unit,12.82,5809.64,AgriFeed Co,Gilt Development,PG-4200,Dummy data for student testing
+1/8/2025,2025,1,OP-2025-001,Site B,Labor,Payroll Burden,Payroll Burden expense,157.27,unit,36.04,5668.01,Midwest Transport,Gilt Development,PG-8183,Dummy data for student testing
+5/9/2025,2025,5,OP-2025-001,Site A,Overhead,Insurance,Insurance expense,492.07,unit,30.22,14870.36,VetHealth Inc,Gilt Development,PG-1923,Dummy data for student testing
+4/12/2025,2025,4,OP-2025-001,Site A,Animal,Genetics/Semen,Genetics/Semen expense,328.41,unit,6.28,2062.41,AgriFeed Co,Finishing,PG-4864,Dummy data for student testing
+6/3/2025,2025,6,OP-2025-001,Site A,Transportation,Market Delivery,Market Delivery expense,366.02,unit,8.84,3235.62,AgriFeed Co,Gilt Development,PG-1645,Dummy data for student testing
+7/30/2025,2025,7,OP-2025-001,Site A,Facilities,Barn Supplies,Barn Supplies expense,494.04,unit,40.61,20062.96,Utility Provider,Gilt Development,PG-1587,Dummy data for student testing
+10/13/2025,2025,10,OP-2025-001,Site B,Animal,Mortality Disposal,Mortality Disposal expense,356.29,unit,37.26,13275.37,AgriFeed Co,Breeding,PG-2715,Dummy data for student testing
+2/3/2025,2025,2,OP-2025-001,Site A,Feed,Finisher Feed,Finisher Feed expense,225.73,unit,33.82,7634.19,AgriFeed Co,Breeding,PG-7763,Dummy data for student testing
+5/19/2025,2025,5,OP-2025-001,Site A,Transportation,Pig Hauling,Pig Hauling expense,127.73,unit,1.88,240.13,VetHealth Inc,Nursery,PG-5578,Dummy data for student testing
+9/5/2025,2025,9,OP-2025-001,Site A,Facilities,Manure Handling,Manure Handling expense,88.27,unit,38.58,3405.46,Midwest Transport,Gilt Development,PG-1441,Dummy data for student testing
+10/30/2025,2025,10,OP-2025-001,Site A,Transportation,Pig Hauling,Pig Hauling expense,107.11,unit,1.98,212.08,Utility Provider,Nursery,PG-9179,Dummy data for student testing
+5/22/2025,2025,5,OP-2025-001,Site A,Facilities,Barn Supplies,Barn Supplies expense,117.15,unit,36.43,4267.77,VetHealth Inc,Finishing,PG-5741,Dummy data for student testing
+9/8/2025,2025,9,OP-2025-001,Site B,Health,Medications,Medications expense,85.37,unit,17.84,1523,Farm Services LLC,Breeding,PG-6661,Dummy data for student testing
+11/30/2025,2025,11,OP-2025-001,Site B,Health,Biosecurity Supplies,Biosecurity Supplies expense,9.98,unit,19.25,192.12,VetHealth Inc,Nursery,PG-2750,Dummy data for student testing
+5/30/2025,2025,5,OP-2025-001,Site C,Feed,Finisher Feed,Finisher Feed expense,486.42,unit,37.26,18124.01,AgriFeed Co,Gilt Development,PG-6075,Dummy data for student testing
+6/22/2025,2025,6,OP-2025-001,Site C,Overhead,Software & Technology,Software & Technology expense,363.61,unit,14.06,5112.36,AgriFeed Co,Gilt Development,PG-3990,Dummy data for student testing
+4/30/2025,2025,4,OP-2025-001,Site B,Transportation,Pig Hauling,Pig Hauling expense,270.81,unit,4.8,1299.89,AgriFeed Co,Gilt Development,PG-7816,Dummy data for student testing
+11/4/2025,2025,11,OP-2025-001,Site C,Feed,Nursery Feed,Nursery Feed expense,299.58,unit,13.73,4113.23,AgriFeed Co,Gilt Development,PG-9259,Dummy data for student testing
+9/21/2025,2025,9,OP-2025-001,Site C,Animal,Weaned Pig Purchase,Weaned Pig Purchase expense,165.87,unit,15.65,2595.87,Utility Provider,Nursery,PG-3479,Dummy data for student testing
+6/7/2025,2025,6,OP-2025-001,Site A,Facilities,Manure Handling,Manure Handling expense,134.62,unit,35.62,4795.16,Utility Provider,Breeding,PG-8851,Dummy data for student testing
+7/20/2025,2025,7,OP-2025-001,Site A,Labor,Hourly Labor,Hourly Labor expense,334.93,unit,37.4,12526.38,Utility Provider,Finishing,PG-2447,Dummy data for student testing
+11/28/2025,2025,11,OP-2025-001,Site C,Transportation,Market Delivery,Market Delivery expense,232.75,unit,6.62,1540.81,VetHealth Inc,Gilt Development,PG-7748,Dummy data for student testing
+8/20/2025,2025,8,OP-2025-001,Site C,Labor,Payroll Burden,Payroll Burden expense,223.18,unit,35.6,7945.21,Farm Services LLC,Finishing,PG-2478,Dummy data for student testing
+12/14/2025,2025,12,OP-2025-001,Site B,Facilities,Barn Supplies,Barn Supplies expense,192.87,unit,22.2,4281.71,Farm Services LLC,Nursery,PG-3007,Dummy data for student testing
+6/11/2025,2025,6,OP-2025-001,Site B,Health,Medications,Medications expense,491.94,unit,12.47,6134.49,AgriFeed Co,Nursery,PG-7716,Dummy data for student testing
+9/25/2025,2025,9,OP-2025-001,Site B,Transportation,Market Delivery,Market Delivery expense,453.78,unit,11.13,5050.57,AgriFeed Co,Breeding,PG-3800,Dummy data for student testing
+12/21/2025,2025,12,OP-2025-001,Site A,Transportation,Pig Hauling,Pig Hauling expense,224.29,unit,21.61,4846.91,Utility Provider,Breeding,PG-6093,Dummy data for student testing
+2/18/2025,2025,2,OP-2025-001,Site A,Transportation,Pig Hauling,Pig Hauling expense,110.32,unit,2.13,234.98,VetHealth Inc,Finishing,PG-1340,Dummy data for student testing
+9/2/2025,2025,9,OP-2025-001,Site B,Feed,Feed Delivery,Feed Delivery expense,256.82,unit,13.56,3482.48,AgriFeed Co,Breeding,PG-6463,Dummy data for student testing
+2/6/2025,2025,2,OP-2025-001,Site C,Feed,Sow Feed,Sow Feed expense,409.29,unit,24.16,9888.45,AgriFeed Co,Finishing,PG-5492,Dummy data for student testing
+7/11/2025,2025,7,OP-2025-001,Site B,Health,Vaccines,Vaccines expense,496.42,unit,6.35,3152.27,Utility Provider,Breeding,PG-9210,Dummy data for student testing
+11/28/2025,2025,11,OP-2025-001,Site A,Labor,Hourly Labor,Hourly Labor expense,129.83,unit,30.52,3962.41,Utility Provider,Nursery,PG-7246,Dummy data for student testing
+9/7/2025,2025,9,OP-2025-001,Site A,Labor,Hourly Labor,Hourly Labor expense,318.56,unit,2.78,885.6,AgriFeed Co,Finishing,PG-2875,Dummy data for student testing
+12/4/2025,2025,12,OP-2025-001,Site B,Animal,Gilt Development,Gilt Development expense,332.98,unit,36.12,12027.24,Utility Provider,Finishing,PG-2774,Dummy data for student testing
+3/25/2025,2025,3,OP-2025-001,Site A,Feed,Sow Feed,Sow Feed expense,202.72,unit,14.79,2998.23,VetHealth Inc,Finishing,PG-4868,Dummy data for student testing
+4/15/2025,2025,4,OP-2025-001,Site B,Animal,Gilt Development,Gilt Development expense,444.13,unit,27.14,12053.69,VetHealth Inc,Finishing,PG-8544,Dummy data for student testing
+2/8/2025,2025,2,OP-2025-001,Site B,Facilities,Manure Handling,Manure Handling expense,362.26,unit,5.86,2122.84,Utility Provider,Nursery,PG-1386,Dummy data for student testing
+12/16/2025,2025,12,OP-2025-001,Site C,Animal,Weaned Pig Purchase,Weaned Pig Purchase expense,347.75,unit,24.2,8415.55,AgriFeed Co,Finishing,PG-8980,Dummy data for student testing
+12/23/2025,2025,12,OP-2025-001,Site C,Labor,Contract Labor,Contract Labor expense,279.76,unit,15.77,4411.82,AgriFeed Co,Nursery,PG-2819,Dummy data for student testing
+10/4/2025,2025,10,OP-2025-001,Site C,Transportation,Pig Hauling,Pig Hauling expense,215.54,unit,30.45,6563.19,AgriFeed Co,Breeding,PG-4259,Dummy data for student testing
+12/30/2025,2025,12,OP-2025-001,Site C,Animal,Mortality Disposal,Mortality Disposal expense,411.39,unit,38.66,15904.34,AgriFeed Co,Finishing,PG-3070,Dummy data for student testing
+12/26/2025,2025,12,OP-2025-001,Site B,Health,Biosecurity Supplies,Biosecurity Supplies expense,7.14,unit,16.97,121.17,Farm Services LLC,Gilt Development,PG-5000,Dummy data for student testing
+6/16/2025,2025,6,OP-2025-001,Site A,Animal,Mortality Disposal,Mortality Disposal expense,83.65,unit,29.24,2445.93,AgriFeed Co,Breeding,PG-3606,Dummy data for student testing
+5/28/2025,2025,5,OP-2025-001,Site C,Health,Vet Services,Vet Services expense,259.1,unit,17.36,4497.98,Midwest Transport,Finishing,PG-2829,Dummy data for student testing
+3/5/2025,2025,3,OP-2025-001,Site B,Labor,Contract Labor,Contract Labor expense,421.02,unit,26.32,11081.25,AgriFeed Co,Finishing,PG-6744,Dummy data for student testing
+12/31/2025,2025,12,OP-2025-001,Site C,Animal,Weaned Pig Purchase,Weaned Pig Purchase expense,115.01,unit,44,5060.44,Midwest Transport,Breeding,PG-8939,Dummy data for student testing

@@ -1,0 +1,19 @@
+Pig_Group_ID,Placement_Date,Nursery_Site,Nursery_Barn,Pig_Source,Production_Flow,Expected_Head,Received_Head,Avg_Weight_In_lb,Age_Days,Health_Status,Placement_Week,Notes
+PG-1017,1/16/2025,Nursery North,N1,External Wean Pig Supplier,Wean-to-Finish,2338,2285,11.55,21,Monitored,3,Dummy nursery intake data for capacity and flow planning
+PG-1002,1/24/2025,Nursery South,NS2,External Wean Pig Supplier,Wean-to-Finish,2281,2274,12.49,21,Negative,4,Dummy nursery intake data for capacity and flow planning
+PG-1014,2/2/2025,Nursery South,NS2,Internal Sow Farm,Wean-to-Finish,2454,2431,13.97,20,Negative,5,Dummy nursery intake data for capacity and flow planning
+PG-1011,2/11/2025,Nursery South,NS2,Internal Sow Farm,Wean-to-Finish,2383,2350,12.87,21,Negative,7,Dummy nursery intake data for capacity and flow planning
+PG-1015,2/15/2025,Nursery South,NS2,Internal Sow Farm,Wean-to-Finish,2596,2569,12.52,20,Negative,7,Dummy nursery intake data for capacity and flow planning
+PG-1016,2/22/2025,Nursery South,NS2,Internal Sow Farm,Wean-to-Finish,2406,2399,13.43,22,Monitored,8,Dummy nursery intake data for capacity and flow planning
+PG-1000,3/1/2025,Nursery North,N1,Internal Sow Farm,Nursery-to-Finish,2305,2248,12.45,20,Positive,9,Dummy nursery intake data for capacity and flow planning
+PG-1004,3/21/2025,Nursery South,NS1,Internal Sow Farm,Wean-to-Finish,2139,2106,13.61,20,Negative,12,Dummy nursery intake data for capacity and flow planning
+PG-1005,3/23/2025,Nursery North,N2,Internal Sow Farm,Wean-to-Finish,2115,2107,11.9,19,Negative,12,Dummy nursery intake data for capacity and flow planning
+PG-1009,4/6/2025,Nursery North,N1,External Wean Pig Supplier,Wean-to-Finish,2512,2498,11.67,19,Negative,14,Dummy nursery intake data for capacity and flow planning
+PG-1007,4/13/2025,Nursery North,N1,External Wean Pig Supplier,Nursery-to-Finish,2466,2415,12,21,Negative,15,Dummy nursery intake data for capacity and flow planning
+PG-1003,5/15/2025,Nursery North,N1,Internal Sow Farm,Nursery-to-Finish,2160,2108,13.88,21,Monitored,20,Dummy nursery intake data for capacity and flow planning
+PG-1006,5/23/2025,Nursery South,NS2,External Wean Pig Supplier,Wean-to-Finish,2501,2496,10.53,21,Negative,21,Dummy nursery intake data for capacity and flow planning
+PG-1001,6/13/2025,Nursery South,NS1,External Wean Pig Supplier,Wean-to-Finish,2582,2570,10.43,18,Positive,24,Dummy nursery intake data for capacity and flow planning
+PG-1012,7/24/2025,Nursery North,N2,External Wean Pig Supplier,Wean-to-Finish,2433,2427,13.49,18,Negative,30,Dummy nursery intake data for capacity and flow planning
+PG-1008,8/3/2025,Nursery South,NS1,External Wean Pig Supplier,Nursery-to-Finish,2522,2471,13.61,21,Monitored,31,Dummy nursery intake data for capacity and flow planning
+PG-1010,8/4/2025,Nursery North,N2,Internal Sow Farm,Wean-to-Finish,2242,2194,13.84,18,Positive,32,Dummy nursery intake data for capacity and flow planning
+PG-1013,8/24/2025,Nursery North,N1,Internal Sow Farm,Wean-to-Finish,2206,2182,10.64,22,Negative,34,Dummy nursery intake data for capacity and flow planning
