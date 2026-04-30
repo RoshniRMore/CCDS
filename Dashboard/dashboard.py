@@ -45,7 +45,13 @@ import streamlit as st
 if Path("/workspaces/CCDS").exists():
     CCDS_ROOT = Path("/workspaces/CCDS")
 else:
-    CCDS_ROOT = Path(__file__).parent.resolve()
+    # Walk up from this file looking for an Outputs/ folder
+    _here = Path(__file__).parent.resolve()
+    CCDS_ROOT = _here
+    for candidate in [_here, *_here.parents]:
+        if (candidate / "Outputs").is_dir():
+            CCDS_ROOT = candidate
+            break
 
 DATA_DIR    = CCDS_ROOT / "Data"
 OUTPUT_DIR  = CCDS_ROOT / "Outputs"
